@@ -28,13 +28,16 @@ Work experience
 
 * 2015-2020: Teaching Assistant
   * University of Copenhagen
-  * Advanced Probability 1 (MSc course), Advanced Probability 2 (MSc course), Stochastic Processes (BSc course), Causality (PhD course), Discrete Models (MSc course)
+  * BSc course: Stochastic Processes
+  * MSc courses: Advanced Probability 1, Advanced Probability 2, Discrete Models
+  * PhD course: Causality
 
 * 2010-2011: Substitute Teacher
   * Hareskovby Primary School 
 
 * 2009: Teaching Assistant
-  * at H.C. Ørsted Gymnasiet (highschool) mathematics homework cafe.
+  * H.C. Ørsted Gymnasiet (highschool)
+  * Mathematics homework cafe
   
 Programming Skills
 ======
@@ -50,6 +53,7 @@ Publications
   {% endfor %}</ul>
   
 Prizes and Awards
+======
 * 2019: Winner of NeurIPS 2019 C4C challenge.
 * 2018: Danish Mathematical Society's thesis prize for the best mathematical master's thesis submitted at danish universities in 2017.
   

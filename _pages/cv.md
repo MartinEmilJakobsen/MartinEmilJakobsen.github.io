@@ -19,7 +19,7 @@ Work experience
 ======
 * 2018-2021: Researcher PhD Candidate
   * University Of Copenhagen
-  * Fields of research: Statistics, Causality and Machine Learning
+  * Fields of research: Statistics, Causality, Machine Learning, and Econometrics
   * Supervisor: Professor Jonas Peters
   
 * 2017-2018: Actuary
@@ -61,4 +61,4 @@ Workshops
 ======
 * Spring School on Structural Inference in Statistics, Uder, Germany, March 2019
 * Machine Learning Summer School (MLSS), London, UK, 2019
-* Oberwolfach (MFO) Workshop on Foundations and New Horizons for Causal Inference
+* Oberwolfach Research Institute for Mathematics (MFO) Workshop on Foundations and New Horizons for Causal Inference, Oberwolfach, Germany, 2019

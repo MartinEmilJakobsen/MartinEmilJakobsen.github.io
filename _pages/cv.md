@@ -29,6 +29,12 @@ Work experience
 * 2015-2020: Teaching Assistant
   * University of Copenhagen
   * Advanced Probability 1 (MSc course), Advanced Probability 2 (MSc course), Stochastic Processes (BSc course), Causality (PhD course), Discrete Models (MSc course)
+
+* 2010-2011: Substitute Teacher
+  * Hareskovby Primary School 
+
+* 2009: Teaching Assistant
+  * at H.C. Ørsted Gymnasiet (highschool) mathematics homework cafe.
   
 Programming Skills
 ======

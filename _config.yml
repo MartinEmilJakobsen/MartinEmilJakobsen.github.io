@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Martin Emil Jakobsen"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD in statistics. Interested in data science, causality, machine learning and probability theory."
   location         : "Copenhagen, Denmark"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gAQbIr8AAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Martin-Jakobsen"

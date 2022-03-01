@@ -57,4 +57,8 @@ Prizes and Awards
 * 2019: Winner of NeurIPS 2019 C4C challenge.
 * 2018: Danish Mathematical Society's thesis prize for the best mathematical master's thesis submitted at danish universities in 2017.
   
-
+Workshops
+======
+* Spring School on Structural Inference in Statistics, Uder, Germany, March 2019
+* Machine Learning Summer School (MLSS), London, UK, 2019
+* Oberwolfach (MFO) Workshop on Foundations and New Horizons for Causal Inference

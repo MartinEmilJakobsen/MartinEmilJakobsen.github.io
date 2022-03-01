@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### About
-Data scientist with a PhD in statistics and a background in actuarial mathematics. I wrote my PhD thesis, under the supervision of Professor Jonas Peters, at the Copenhagen Causality Lab in the section for Probability Theory and Statistics. My research was primarily within the fields of statistics, causality, econometrics, and machine learning. More specifically, my research contributed to the topics of causal effect estimation, causal structure learning, and out-of-distribution generalization.
+Data scientist with a PhD in statistics and a background in actuarial mathematics. I wrote my PhD thesis, under the supervision of Professor Jonas Peters, at the Copenhagen Causality Lab, section for Probability Theory and Statistics, University of Copenhagen. My research was primarily within the fields of statistics, causality, econometrics, and machine learning. More specifically, my research contributed to the topics of causal effect estimation, causal structure learning, and out-of-distribution generalization.
 
 ### News 
 * 15<sup>th</sup> of February, 2022: I have been temporarily hired as a research assistant to finalize and submit for publication the very last project of my PhD thesis.

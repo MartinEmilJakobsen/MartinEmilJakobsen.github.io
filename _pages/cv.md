@@ -42,7 +42,7 @@ Work experience
 Programming Skills
 ======
 * R
-* SQL
+* SQL (intermediate)
 * Python (intermediate)
 * Git
 

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### About
-Data scientist with a PhD in statistics and a background in actuarial mathematics. I wrote my PhD thesis at the [Copenhagen Causality Lab](https://www.math.ku.dk/english/research/spt/cocala/) under the supervision of Professor [Jonas Peters](http://web.math.ku.dk/~peters/). My interests and research is within the fields of data science, causality, econometrics, and machine learning.
+Data scientist with a PhD in statistics and a background in actuarial mathematics. I wrote my PhD thesis at the [Copenhagen Causality Lab](https://www.math.ku.dk/english/research/spt/cocala/) under the supervision of Professor [Jonas Peters](http://web.math.ku.dk/~peters/). My interests and research are within the fields of data science, causality, econometrics, and machine learning.
 
 ### News 
 * 15<sup>th</sup> of February, 2022: I have been temporarily hired as a research assistant to finalize and submit for publication the last project of my PhD thesis.

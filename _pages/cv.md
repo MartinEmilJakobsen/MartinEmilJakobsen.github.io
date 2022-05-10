@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a id="raw-url" href="https://github.com/MartinEmilJakobsen/MartinEmilJakobsen.github.io/blob/b325211a46eae49ac8e07eb3e9e8e403c85c1333/files/CV_MartinEmilJakobsen.pdf">Download full CV</a>
+<a id="raw-url" href="https://github.com/MartinEmilJakobsen/MartinEmilJakobsen.github.io/blob/b348eda51dbbd086ed17689003df6cb6e07ca90a/files/CV_MartinEmilJakobsen.pdf">Download detailed CV</a>
 
 
 Education
@@ -19,6 +19,9 @@ Education
 
 Work experience
 ======
+* 2022 (Feb-Mar): Research Assistant
+  * University Of Copenhagen
+
 * 2018-2021: Researcher PhD Candidate
   * University Of Copenhagen
   * Fields of research: Statistics, Causality, Machine Learning, and Econometrics

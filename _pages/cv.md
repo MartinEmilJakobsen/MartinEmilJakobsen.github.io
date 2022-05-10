@@ -41,10 +41,11 @@ Work experience
   
 Programming Skills
 ======
-* R
-* SQL (intermediate)
-* Python (intermediate)
 * Git
+* Python
+* R
+* SQL
+
 
 Publications
 ======

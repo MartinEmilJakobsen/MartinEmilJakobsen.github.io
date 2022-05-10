@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a id="raw-url" href="https://github.com/MartinEmilJakobsen/MartinEmilJakobsen.github.io/blob/b348eda51dbbd086ed17689003df6cb6e07ca90a/files/CV_MartinEmilJakobsen.pdf">Download detailed CV</a>
+<a id="raw-url" href="https://github.com/MartinEmilJakobsen/MartinEmilJakobsen.github.io/raw/b348eda51dbbd086ed17689003df6cb6e07ca90a/files/CV_MartinEmilJakobsen.pdf">Download detailed CV</a>
 
 
 Education

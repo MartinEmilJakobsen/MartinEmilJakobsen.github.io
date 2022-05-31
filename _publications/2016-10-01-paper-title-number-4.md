@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'We propose a method to consistently estimate the underlying causal structure of non-linear additive noise directed tree models. Furthermore, we propose a procedure to test causal substructure hypotheses.'
 date: 2022-02-02
-venue: 'arXiv preprint'
+venue: 'Journal of Machine Learning Research (forthcoming)'
 paperurl: 'https://arxiv.org/abs/2108.08871'
 citation: 'Martin Emil Jakobsen,  Rajen D. Shah, Peter Bühlmann and Jonas Peters (2021). "Structure Learning for Directed Trees" <i> Journal of Machine Learning Research (forthcoming)</i>'
 ---

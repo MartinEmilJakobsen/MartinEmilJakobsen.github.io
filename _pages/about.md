@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### About
-Data scientist with a PhD in statistics and a background in actuarial mathematics. I wrote my PhD thesis at the [Copenhagen Causality Lab](https://www.math.ku.dk/english/research/spt/cocala/) under the supervision of Professor [Jonas Peters](http://web.math.ku.dk/~peters/). My interests and research are within the fields of data science, causality, econometrics, and machine learning.
+Data scientist with a PhD in statistics and a background in actuarial mathematics. I wrote my PhD thesis at the [Copenhagen Causality Lab](https://www.math.ku.dk/english/research/spt/cocala/) under the supervision of Professor [Jonas Peters](http://web.math.ku.dk/~peters/). My interests and research are within the fields of data science, causality, and machine learning.
 
 ### News 
 * 31<sup>st</sup> of May, 2022: The last project of my PhD thesis 'Structure Learning for Directed Trees' written in collaboration with [Rajen D. Shah](http://www.statslab.cam.ac.uk/~rds37/) (Cambridge), [Peter Bühlmann](https://math.ethz.ch/research/seminar-for-statistics/peter-buehlmann.html) (ETH Zurich), and [Jonas Peters](http://web.math.ku.dk/~peters/) (University of Copenhagen) has been accepted for publication in The Journal of Machine Learning Research (JMLR).

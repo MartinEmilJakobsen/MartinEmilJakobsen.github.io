@@ -1,7 +1,7 @@
 ---
 title: "Structure Learning for Directed Trees"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2015-10-01-paper-title-number-4
 excerpt: 'We propose a method to consistently estimate the underlying causal structure of non-linear additive noise directed tree models. Furthermore, we propose a procedure to test causal substructure hypotheses.'
 date: 2022-02-02
 venue: 'Journal of Machine Learning Research (JMLR)'
